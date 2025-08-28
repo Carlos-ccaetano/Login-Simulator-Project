@@ -119,7 +119,7 @@ Contribuições são bem-vindas — abra uma *issue* para discutir e envie um *p
 ---
 
 ## 👤 Autor
-
-**Carlos Caetano** ·
+**Carlos Caetano**  
+🔗 [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN) | 💻 [GitHub](https://github.com/Carlos-ccaetano)  
 
 ---
